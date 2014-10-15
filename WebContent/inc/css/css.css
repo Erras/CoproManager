@@ -1,0 +1,38 @@
+.span9,.span3{
+	border: 1px solid black;
+}
+
+nav{
+	margin-top: 15px;
+}
+
+#search{
+	float: right;
+}
+
+#account{
+	float: right;
+}
+
+#en-tete{
+	height: 200px;
+	width: 100%;
+	border: 1px solid black;
+}
+
+#side{
+	height: 1000px;
+	border: 1px solid black;
+}
+
+#article{
+	height: 1000px;
+	border: 1px solid black;
+}
+
+#pied{
+	height: 150px;
+	width: 100%;
+	margin-top: 15px;
+	border: 1px solid black;
+}
